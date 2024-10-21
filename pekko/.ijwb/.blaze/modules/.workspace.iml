@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.id="Blaze" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../.." isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../.." />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bazel-bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bazel-genfiles" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bazel-out" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bazel-pekko" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bazel-testlogs" />
+      <excludePattern pattern="bazel-bin" />
+      <excludePattern pattern="bazel-genfiles" />
+      <excludePattern pattern="bazel-out" />
+      <excludePattern pattern="bazel-testlogs" />
+      <excludePattern pattern="bazel-pekko" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="processed_pekko-http_2.13-1.0.0_a1683439" level="project" />
+    <orderEntry type="library" name="processed_pekko-actor_2.13-1.0.0_4ddd9db0" level="project" />
+    <orderEntry type="library" name="scala-library-2.12.18-stamped_e0f901f" level="project" />
+    <orderEntry type="library" name="scala-reflect-2.12.18-stamped_956930df" level="project" />
+    <orderEntry type="library" name="processed_postgresql-42.2.20_e51784a3" level="project" />
+    <orderEntry type="library" name="processed_pekko-http-spray-json_2.13-1.0.0_a6b379b8" level="project" />
+  </component>
+</module>

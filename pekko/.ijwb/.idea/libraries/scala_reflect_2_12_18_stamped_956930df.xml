@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="scala-reflect-2.12.18-stamped_956930df">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_ricksonvasconcelos/e4e59b163ff960ec5ab58588adb145c4/execroot/_main/bazel-out/darwin_x86_64-fastbuild/bin/external/io_bazel_rules_scala_scala_reflect/io_bazel_rules_scala_scala_reflect.stamp/scala-reflect-2.12.18-stamped.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
